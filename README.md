@@ -2,6 +2,9 @@
 
 A modern, user-friendly tool for continuously downloading packet capture (PCAP) files from one or more Palo Alto firewalls. Built with a clean GUI, parallel downloads, and advanced logging.
 
+## Screenshot
+![Palo Alto PCAP Downloader GUI](assets/screenshot.png)
+
 ## Features
 - Download PCAP files (rx, tx, drp) from multiple firewalls in parallel
 - Set interval and number of downloads
